@@ -1,2 +1,2 @@
-# openacademy-projet
+# openacademy-project
 curso openacademy odoo
